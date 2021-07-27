@@ -1,0 +1,22 @@
+* {
+    background-color: cadetblue;
+    margin: 30px;
+    padding: 0;
+}
+
+.imagen_david img {
+    width: 255px;
+}
+
+.informacion legend {
+    color: red;
+}
+
+header h1 {
+    color: crimson;
+}
+
+.titular_nombre {
+    margin-left: 350px;
+    position: absolute;
+}

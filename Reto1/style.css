@@ -1,0 +1,55 @@
+header {
+    color: blueviolet;
+}
+
+nav {
+    text-align: left;
+    width: 200px;
+}
+
+* {
+    margin: 30px;
+}
+
+nav li {
+    list-style: none;
+}
+
+.listas {
+    background-color: aquamarine;
+}
+
+.listas li {
+    list-style: none;
+}
+
+.seccion1 {
+    font-family: cursive;
+    color: aqua;
+    height: 180px;
+    background-color: crimson;
+}
+
+.seccion2 {
+    font-family: "Homer Simpson UI";
+    color: indigo;
+    height: 140px;
+    background-color: darkorange;
+}
+
+.seccion3 {
+    font-family: "Consolas", monospace;
+    color: darkred;
+    background-color: cornflowerblue;
+}
+
+footer {
+    color: blueviolet;
+    font-family: cursive;
+    width: 500px;
+    height: 100px;
+}
+
+span {
+    color: darkgoldenrod;
+}

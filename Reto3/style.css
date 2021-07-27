@@ -1,0 +1,102 @@
+* {
+    margin: 20px;
+}
+
+body {
+    background-image: url(images/fondo.jpg);
+}
+
+h1 {
+    color: #e74c3c;
+}
+
+h2 {
+    color: #73c6b6;
+}
+
+.crossfit-img img {
+    width: 385px;
+    position: absolute;
+}
+
+.crossfit li {
+    width:550px;
+    margin-left: 450px;
+    padding-right: 500px;
+}
+
+.deportes li {
+    list-style: none;
+}
+
+.deportes {
+    background-color: bisque;
+}
+
+.weightlifting-img img {
+    width: 285px;
+    position: absolute;
+}
+
+.weightlifting li {
+    margin-left: 450px;
+    padding-right: 500px;
+}
+
+.games-of-the-consoles li {
+    list-style: none;
+}
+
+.games-of-the-consoles {
+    background-color: bisque;
+}
+
+.zelda-img img {
+    width: 350px;
+    position: absolute;
+}
+
+.zelda li {
+    margin-left: 450px;
+    padding-right: 500px;
+}
+
+.dark_soul-img img {
+    width: 380px;
+    position: absolute;
+}
+
+.dark_soul li {
+    margin-left: 450px;
+    padding-right: 500px;
+    position: relative;
+}
+
+footer {
+    background-color: chocolate;
+}
+
+footer ul {
+    list-style: none;
+    text-align: center;
+}
+
+footer ul a {
+    list-style: none;
+    text-decoration: none;
+    color: darkviolet;
+}
+
+textarea{
+    margin-left: 100px;
+}
+
+.formulario{
+    border-style: dotted;
+    background-color: #1d86ab;
+}
+.formulario fieldset{
+    width: 600px;
+    height: 650px;
+    background-color:#c1256e;
+}
